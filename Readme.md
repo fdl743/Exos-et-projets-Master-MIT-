@@ -5,8 +5,8 @@
 4. _Programme pour inverser une chaine de caractere_ 
 5. _Programme qui compte les carateres dans une chaine de caractere_
 6. _Soit U(n) une suite d'entiers définie:_ 
-U(0)= 3 et U(1)= -4
-U(n)= 2 U(n-1)+ 3 U(n-2)
+U(0)= 3 et U(1)= -4\
+U(n)= 2U(n-1)+ 3 U(n-2)
    -  _Programme qui affiche la somme des 30 premiers termes de la suite U:_
    -  _Programme qui affiche le 70 ième terme de la suite U(n) :_
 
